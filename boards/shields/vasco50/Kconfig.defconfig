@@ -1,0 +1,6 @@
+if SHIELD_VASCO50
+
+config ZMK_KEYBOARD_NAME
+    default "vasco50"
+
+endif # SHIELD_VASCO50
